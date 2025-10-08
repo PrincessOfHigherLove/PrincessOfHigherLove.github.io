@@ -63,7 +63,7 @@ createCannon("top", 850, 2000)
 
   registerSetup(setup);
 });
-var bgm = new Audio("Titanic.mp3"); // replace with the actual path to your mp3
+var bgm = new Audio("grace by Fujii Kaze🤍🙏.mp3"); // replace with the actual path to your mp3
 bgm.loop = true; // keeps playing in a loop
 bgm.volume = 1; // optional: volume between 0.0 and 1.0
 
